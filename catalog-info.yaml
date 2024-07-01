@@ -10,7 +10,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     venue.sh/devcontainers-enabled: "true"
     jira/project-key: VEND
-    jira/token-type: Bearer
 spec:
   type: service
   lifecycle: dev
