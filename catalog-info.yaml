@@ -6,7 +6,7 @@ metadata:
     - one
     - two
   annotations:
-    github.com/project-slug: venuesh/venuesh-nextjs-blog
+    github.com/project-slug: echooocc/venuesh-nextjs-blog
     backstage.io/techdocs-ref: dir:.
     venue.sh/devcontainers-enabled: "true"
     jira/project-key: VEND
